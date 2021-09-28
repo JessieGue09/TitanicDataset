@@ -56,7 +56,7 @@ _Paginas de referencia implementadas_
 ### Agradecimientos / Disculpas
 
 Este apartado lo usaré más como disculpa, no puede terminar a tiempo. No daré ninguna excusa, simplemente es algo que debí haber hecho desde el principio, acepto mis errores y espero no volver a cometerlos en un futuro. 
-Gracias a mi profesor Hiram por no dejarnos solos aun cuando no podemos terminar las coasas bien.
+Gracias a mi profesor Hiram por no dejarnos solos aún cuando no podemos terminar las cosas bien.
 
 
 ### Autor
