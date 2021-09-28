@@ -4,6 +4,8 @@ Predicción de sobrevivientes de un Dataset del titanic con Python
 ## Introducción 
 Creación de una base de datos de predicción para los sobrevivientes del titanic.
 
+_La rama que muestra todo el documento se llama **master**. Por favor dirijase allí para ver el proyecto._
+
 El estatus economico en el dataset se muestra de la siguiente forma:
 1.   Upper: Clase alta
 2.   Middle: Clse media
